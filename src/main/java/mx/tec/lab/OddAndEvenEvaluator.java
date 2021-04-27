@@ -5,7 +5,8 @@ public class OddAndEvenEvaluator
 	{ 
 		final double c = a + b; 
 		final double d = a - b; 
-		int odd = 0; if (a % 2 != 0) 
+		int odd = 0; 
+		if (a % 2 != 0) 
 		{ 
 			odd++; 
 		} 
